@@ -4,7 +4,7 @@ A web platform to send friendly reminders to take breaks. Increase productivity 
 
 ## Team
 
-  - __Product Owner__: Marcus Svey
+  - __Product Owner__: Marcus Svehlak
   - __Scrum Master__: Albert Chang
   - __Development Team Members__: Michael Sermersheim, Peter Muller
 
