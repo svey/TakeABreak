@@ -1,4 +1,4 @@
-# Take a Break
+# upBreaks
 
 A web platform to send friendly reminders to take breaks. Increase productivity and grow.
 
